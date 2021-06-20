@@ -5,6 +5,7 @@
 to deliver continuous values.
 - 📫 How to reach me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/tan-tran-ph-d-a3064665/)
+  - :school: [Personal](https://sites.google.com/site/tmtran118/) 
 
 
 [![Tan's github stats](https://github-readme-stats.vercel.app/api?username=tantran41&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
