@@ -1,7 +1,7 @@
 
 - ⚡ I’m interested in Business Strategies, Market, and Microeconomics   
 - 📚 I’m currently learning about Data Science, Finance, and Trading
-- *️⃣ I’m looking to collaborate on working toward a market niche where strategies and tech can be used 
+- *️⃣ I’m looking to collaborate on working toward a product where strategies and tech can be combined
 to deliver continuous values.
 - 📫 How to reach me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/tan-tran-ph-d-a3064665/)
