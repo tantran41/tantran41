@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tantran41
-- 👀 I’m interested in Business Strategies, Market, and Microeconomics   
-- 🌱 I’m currently learning about Data Science, Finance, and Trading
-- 💞️ I’m looking to collaborate on working toward a market niche where strategies and tech can be used 
+
+- ⚡ I’m interested in Business Strategies, Market, and Microeconomics   
+- 📚 I’m currently learning about Data Science, Finance, and Trading
+- *️⃣ I’m looking to collaborate on working toward a market niche where strategies and tech can be used 
 to deliver continuous values.
 - 📫 How to reach me: 
   - :office: [LinkedIn](www.linkedin.com/in/tantran41)
