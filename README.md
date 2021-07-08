@@ -1,5 +1,5 @@
 
-- ⚡ I’m interested in Business Strategies, Market, and Microeconomics   
+- ⚡ I’m interested in Business Strategies, Technologies, and Economics   
 - 📚 I’m currently learning about Data Science, Finance, and Trading
 - *️⃣ I’m looking to collaborate on working toward a product where business strategies and tech can be combined
 to deliver continuous values.
